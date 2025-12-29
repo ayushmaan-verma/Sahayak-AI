@@ -5,13 +5,6 @@
 ---
 
 ## 🛠️ Tech Stack
-# Sahayak.AI: Government Scheme Assistant
-
-**Sahayak.AI** is a high-end, production-ready conversational assistant designed to bridge the gap between Indian citizens and government welfare programs using state-of-the-art AI.
-
----
-
-## 🛠️ Tech Stack
 
 Sahayak.AI is built with a modern, scalable, and performant stack:
 
