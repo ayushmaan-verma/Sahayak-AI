@@ -1,4 +1,6 @@
-# Sahayak.AI — Government Scheme Assistant 🇮🇳
+[# Sahayak.AI — Government Scheme Assistant 🇮🇳
+
+🚀 **Live MVP**: https://sahayak-ai-478287720120.us-west1.run.app/
 
 **Sahayak.AI** is a production-oriented, AI-powered conversational assistant built to bridge the gap between Indian citizens and government welfare schemes. It simplifies complex government policies into clear, personalized, and actionable guidance using modern Generative AI.
 
@@ -129,3 +131,4 @@ npm run dev
 
 ## ⚖️ Security & Privacy
 Sahayak.AI prioritizes user privacy. All personal data is stored in secure Firestore documents. Document processing is transient within the AI context and complies with standard encryption protocols.
+](https://sahayak-ai-478287720120.us-west1.run.app/)
