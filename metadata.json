@@ -1,0 +1,8 @@
+{
+  "name": "Sahayak.AI",
+  "description": "An AI-powered conversational assistant for simplifying government schemes with voice and document support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
