@@ -41,41 +41,6 @@ To ensure Sahayak.AI functions correctly, your Firestore database must follow th
 3. Click **Firestore Database** in the sidebar.
 4. Click **Create database**.
 5. Select **"Start in test mode"** (for initial dev) and choose a location (e.g., `asia-south1` for India).
-Sahayak.AI is built with a modern, scalable, and performant stack:
-
-- **Frontend Framework**: [React 19](https://react.dev/) - Utilizing the latest Concurrent Rendering features.
-- **AI Engine**: [Google Gemini 3 Flash](https://ai.google.dev/) - Powering ultra-fast text, document, and audio processing.
-- **Styling & UI**: [Tailwind CSS](https://tailwindcss.com/) - Custom Glassmorphism design system for a premium feel.
-- **Backend & Auth**: [Firebase](https://firebase.google.com/) - Secure Authentication and Real-time Cloud Firestore for data persistence.
-- **Voice Intelligence**: [Gemini 2.5 Flash Native Audio](https://ai.google.dev/gemini-api/docs/audio) - Providing human-like Text-to-Speech (TTS) and Speech-to-Text (STT).
-- **Build Tool**: [Vite](https://vitejs.dev/) - Optimized for lightning-fast development and production builds.
-- **Language**: [TypeScript](https://www.typescriptlang.org/) - Ensuring type safety and enterprise-grade reliability.
-
----
-
-## ✨ Core Features
-
-- **🤖 Intelligent Multi-modal Chat**: Ask questions via text or voice. Sahayak understands context, eligibility, and government jargon.
-- **🌍 Multilingual by Design**: Full support for English, Hindi, Bengali, Marathi, Tamil, Telugu, and Punjabi.
-- **📄 AI Document Analysis**: Upload government notices or IDs (PDF/Images) to get instant summaries, eligibility checks, and step-by-step application guides.
-- **🎙️ Natural Voice Interaction**: Talk to the assistant and listen to responses with high-quality Indian-accented AI voices.
-- **🛡️ Secure Document Locker**: Encrypted storage for your IDs (Aadhaar, PAN, etc.) with real-time sync across devices.
-- **📊 Application Tracker**: Keep a pulse on your active government applications with a visual progress tracker.
-- **🎯 Personalized Matching**: Algorithms that suggest schemes based on your age, income, state, and category.
-- **🌓 Adaptive UI**: Elegant Glassmorphism interface with intelligent Dark and Light mode themes.
-
----
-
-## 🔥 Step-by-Step Firestore Setup
-
-To ensure Sahayak.AI functions correctly, your Firestore database must follow this architecture.
-
-### 1. Create the Database
-1. Go to [Firebase Console](https://console.firebase.google.com/).
-2. Select your project.
-3. Click **Firestore Database** in the sidebar.
-4. Click **Create database**.
-5. Select **"Start in test mode"** (for initial dev) and choose a location (e.g., `asia-south1` for India).
 
 ### 2. Collection Hierarchy & Naming
 The app automatically creates these when a user signs up, but here is the structure you should expect:
