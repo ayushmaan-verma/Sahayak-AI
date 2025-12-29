@@ -1,6 +1,22 @@
-# Sahayak.AI: Government Scheme Assistant
+# Sahayak.AI — Government Scheme Assistant 🇮🇳
 
-**Sahayak.AI** is a high-end, production-ready conversational assistant designed to bridge the gap between Indian citizens and government welfare programs using state-of-the-art AI.
+**Sahayak.AI** is a production-oriented, AI-powered conversational assistant built to bridge the gap between Indian citizens and government welfare schemes. It simplifies complex government policies into clear, personalized, and actionable guidance using modern Generative AI.
+
+This project focuses on **practical system design**, **scalable architecture**, and **real-world usability**, rather than being a superficial demo.
+
+---
+
+## 🚀 Project Context
+
+Sahayak.AI is developed as a **Minimum Viable Product (MVP)** for **GDG TechSprint – NIT Patna** by **Team Code4Change**.
+
+The MVP validates:
+- AI-driven access to government welfare information  
+- End-to-end full-stack system design  
+- Secure handling of sensitive user data  
+- Real-world constraints in AI-assisted product development  
+
+Future versions aim to expand scheme coverage, strengthen security, and move toward production-grade deployment.
 
 ---
 
