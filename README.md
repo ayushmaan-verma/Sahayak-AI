@@ -1,3 +1,4 @@
+![Sahayak.AI](readme.jpeg)
 # Sahayak.AI — Government Scheme Assistant 🇮🇳
 
 🚀 **Live MVP**: https://sahayak-ai-478287720120.us-west1.run.app/
