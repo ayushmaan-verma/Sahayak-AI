@@ -44,7 +44,6 @@ Sahayak.AI is built with a modern, scalable, and performant stack:
 - **📄 AI Document Analysis**: Upload government notices or IDs (PDF/Images) to get instant summaries, eligibility checks, and step-by-step application guides.
 - **🎙️ Natural Voice Interaction**: Talk to the assistant and listen to responses with high-quality Indian-accented AI voices.
 - **🛡️ Secure Document Locker**: Encrypted storage for your IDs (Aadhaar, PAN, etc.) with real-time sync across devices.
-- **📊 Application Tracker**: Keep a pulse on your active government applications with a visual progress tracker.
 - **🎯 Personalized Matching**: Algorithms that suggest schemes based on your age, income, state, and category.
 - **🌓 Adaptive UI**: Elegant Glassmorphism interface with intelligent Dark and Light mode themes.
 
